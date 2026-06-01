@@ -1,0 +1,16 @@
+[0514/152400.730:ERROR:gpu\ipc\client\command_buffer_proxy_impl.cc:287] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.
+[0519/161149.196:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 7
+[0519/161149.238:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 11
+[0519/161149.247:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 9
+[0519/161157.444:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 65
+[0519/161157.869:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 67
+[0519/161159.581:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 93
+[0519/161159.631:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 91
+[0519/161207.712:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 1
+[0519/161207.715:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 35
+[0519/161207.755:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 45
+[0519/161207.810:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 43
+[0519/161207.855:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 55
+[0519/161207.891:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 59
+[0519/161209.928:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 1
+[0519/161217.726:WARNING:net\spdy\spdy_session.cc:3074] Received HEADERS for invalid stream 3

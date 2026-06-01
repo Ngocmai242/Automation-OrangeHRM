@@ -1,0 +1,22 @@
+{
+  "name": "automation-test---orange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test Test/login.spec.js",
+    "test:dashboard": "playwright test Test/Dashboard.spec.js",
+    "test:logout": "playwright test Test/logout.spec.js",
+    "test:pim": "playwright test Test/pim.spec.js",
+    "test:all": "playwright test Test/*.spec.js",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test Test/login.spec.js --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
